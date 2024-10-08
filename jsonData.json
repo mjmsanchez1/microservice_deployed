@@ -1,0 +1,25 @@
+{
+    "Catalog": {
+        "Products": [
+            {
+                "ProductID": "101",
+                "Name": "Smartphone",
+                "Category": "Electronics",
+                "Price": 299.99,
+                "Stock": 25,
+                "Description": "Latest model smartphone with advanced features.",
+                "ImageURL": "https://sl.bing.net/iNSESaLLb9o/smartphone.jpg" 
+            },
+            {
+                "ProductID": "102",
+                "Name": "Laptop",
+                "Category": "Electronics",
+                "Price": 799.99,
+                "Stock": 15,
+                "Description": "High-performance laptop for gaming and work.",
+                "ImageURL": "https://sl.bing.net/iNSESaLLb9o/laptop.jpg" 
+            }
+        ]
+    }
+}
+
